@@ -10,9 +10,10 @@ how to use
 ----------
 
 1. mylatexをSphinxのextディレクトリに入れる
-2. conf.py、_templatesをソースディレクトリに移動
-3. mysphinxなどをbuild/latexディレクトリに移動
-4. latex.shを実行
+2. `pip install -r requirements.txt` を実行
+3. `japanesesupport` をsourceディレクトリに入れる（https://sphinx-users.jp/reverse-dict/html/japanese.html）
+4. latex.shの `FILE_NAME` をプロジェクトに合わせて変更
+5. latex.shを実行
 
 
 mylatex
@@ -39,5 +40,5 @@ test-project.pdfが出力結果。
 文章
 ----
 
-『ごん狐』（青空文庫）
+`『ごん狐』（青空文庫） <https://www.aozora.gr.jp/cards/000121/card628.html>`_
 
