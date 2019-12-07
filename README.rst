@@ -11,9 +11,8 @@ how to use
 
 1. mylatexをSphinxのextディレクトリに入れる
 2. `pip install -r requirements.txt` を実行
-3. `japanesesupport` をsourceディレクトリに入れる（https://sphinx-users.jp/reverse-dict/html/japanese.html）
-4. latex.shの `FILE_NAME` をプロジェクトに合わせて変更
-5. latex.shを実行
+3. latex.shの `FILE_NAME` をプロジェクトに合わせて変更
+4. latex.shを実行
 
 
 mylatex
@@ -41,4 +40,18 @@ test-project.pdfが出力結果。
 ----
 
 `『ごん狐』（青空文庫） <https://www.aozora.gr.jp/cards/000121/card628.html>`_
+
+
+japanesesupport
+---------------
+
+`japanesesupport` については https://sphinx-users.jp/reverse-dict/html/japanese.html を参照。
+
+この拡張のライセンスはpublic domain（ https://sphinxjp.slack.com/archives/C0GCUAD6V/p1575696021162400 ）。
+
+
+LICENCE
+-------
+
+MIT
 
