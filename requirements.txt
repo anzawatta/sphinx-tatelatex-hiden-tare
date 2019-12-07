@@ -1,3 +1,4 @@
 sphinx
 sphinx-autobuild
 reportlab
+-e git+https://github.com/anzawatta/sphinx-tatelatex-roles.git#egg=latexjlreq

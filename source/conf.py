@@ -30,6 +30,7 @@ author = 'test'
 extensions = [
     'japanesesupport',
     'sphinx.ext.mylatex',
+    'sphinxcontrib.latexjlreq',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

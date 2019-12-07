@@ -3,7 +3,6 @@ sphinx-tatelatex-hiden-tare
 ===========================
 
 Sphinxから縦書きPDFを生成する秘伝のタレ。
-タレから抽出したので動作未検証（もうちょっと使いやすくするかも）。
 
 
 how to use
